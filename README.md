@@ -28,9 +28,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### 📈 GitHub Overview
-- 💻 Focus: Full Stack Web (Laravel + Vue)
-- 📦 Projects: Web App, REST API
-- 🧠 Interested in clean code & real-world systems
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.demolab.com/api?username=VoTinhh&show_icons=true&theme=radical&cache_seconds=86400)
+
 
 
