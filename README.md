@@ -21,9 +21,6 @@
 ### 🧰 Tools & Others
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-121011?style=for-the-badge&logo=responsive&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-Object_Oriented_Programming-blueviolet?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC-Model_View_Controller-orange?style=for-the-badge)
 ![Navicat](https://img.shields.io/badge/Navicat-Database_Tool-brightgreen?style=for-the-badge)
 
 ### 📚 Currently Learning
@@ -32,8 +29,8 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.demolab.com/api?username=VoTinhh&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=86400)
-![Top Langs](https://github-readme-stats.demolab.com/api/top-langs/?username=VoTinhh&layout=compact&theme=radical&cache_seconds=86400)
+![VoTinhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VoTinhh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoTinhh&layout=compact&theme=radical)
 
 
 
