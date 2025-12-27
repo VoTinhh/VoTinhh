@@ -32,7 +32,6 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub followers](https://img.shields.io/github/followers/VoTinhh?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/VoTinhh?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Repos-Public-blue?style=for-the-badge)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VoTinhh&theme=react-dark)
+
 
