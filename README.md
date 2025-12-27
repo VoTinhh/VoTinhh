@@ -32,6 +32,8 @@
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.demolab.com/api?username=VoTinhh&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.demolab.com/api?username=VoTinhh&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.demolab.com/api/top-langs/?username=VoTinhh&layout=compact&theme=radical&cache_seconds=86400)
+
 
 
