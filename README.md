@@ -33,6 +33,5 @@
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.demolab.com/api?username=VoTinhh&show_icons=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoTinhh&layout=compact&theme=radical)
 
 
