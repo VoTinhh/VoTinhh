@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## 🛠 My Skills
 
-### 🌐 Frontend 
+### 🌐 Frontend 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -13,20 +13,31 @@
 ### ⚙️ Backend & Database & Cloud
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-025513?style=for-the-badge&logo=google-cloud&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-025513?style=for-the-badge&logo=postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### 🧠 Architecture & Methodology
+![MVC](https://img.shields.io/badge/Architecture-MVC-yellow?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Programming-OOP-red?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Design-Responsive-blue?style=for-the-badge)
 
 ### 🧰 Tools & Others
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Navicat](https://img.shields.io/badge/Navicat-Database_Tool-brightgreen?style=for-the-badge)
+![Navicat](https://img.shields.io/badge/Navicat-009245?style=for-the-badge&logo=navicat&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 📚 Currently Learning
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-.........
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VoTinhh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoTinhh&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+---
